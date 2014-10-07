@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/RizaFu/wokrspace/Stickyswipe/StickySwipePullIndexListview/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-bca9cd8c8082330ef7549e0398af852faae531fd.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/RizaFu/wokrspace/Stickyswipe/StickySwipePullIndexListview/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-ab4cdee8518b305011f47bcf1e622ff04d9f845e.jar"
+        jar="/Users/RizaFu/wokrspace/Stickyswipe/StickySwipePullIndexListview/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/RizaFu/wokrspace/Stickyswipe/StickySwipePullIndexListview/app/build/intermediates/pre-dexed/debug/classes-d32e45784c36c41b5f502ccd1a7ecd4ba899cf34.jar"
+        jar="/Users/RizaFu/wokrspace/Stickyswipe/StickySwipePullIndexListview/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+    <item
+        dex="/Users/RizaFu/wokrspace/Stickyswipe/StickySwipePullIndexListview/app/build/intermediates/pre-dexed/debug/library-2.4.0-1e736545668d3a2ac4c646fb34a79194f177782a.jar"
+        jar="/Users/RizaFu/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb"/>
+    <item
+        dex="/Users/RizaFu/wokrspace/Stickyswipe/StickySwipePullIndexListview/app/build/intermediates/pre-dexed/debug/classes-560e3bb6bae2492e30a23fca745b1184c6ddb12e.jar"
+        jar="/Users/RizaFu/wokrspace/Stickyswipe/StickySwipePullIndexListview/app/build/intermediates/exploded-aar/StickySwipePullIndexListview/libraryPTR/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9e3254076be57205649cb76b3516c91dda82af22"/>
+    <item
+        dex="/Users/RizaFu/wokrspace/Stickyswipe/StickySwipePullIndexListview/app/build/intermediates/pre-dexed/debug/classes-42a8b2207d162e913048bd433404bd2453256a52.jar"
+        jar="/Users/RizaFu/wokrspace/Stickyswipe/StickySwipePullIndexListview/app/build/intermediates/exploded-aar/com.fortysevendeg.swipelistview/swipelistview/1.0-SNAPSHOT/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="aca2cf1eb07a0a658257d3dc3e18926484861e0d"/>
+    <item
+        dex="/Users/RizaFu/wokrspace/Stickyswipe/StickySwipePullIndexListview/app/build/intermediates/pre-dexed/debug/classes-07aa0351caf226888d6fca0e04a4979c883f6e2d.jar"
+        jar="/Users/RizaFu/wokrspace/Stickyswipe/StickySwipePullIndexListview/app/build/intermediates/exploded-aar/se.emilsjolander/stickylistheaders/2.5.1/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="126dc495f855ddd8b8b29393f25a7f78c661f445"/>
+    <item
+        dex="/Users/RizaFu/wokrspace/Stickyswipe/StickySwipePullIndexListview/app/build/intermediates/pre-dexed/debug/classes-4d5d7a16a6dd5dd5450fd19c565feb3bce9f708d.jar"
+        jar="/Users/RizaFu/wokrspace/Stickyswipe/StickySwipePullIndexListview/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+
+</pre-dex-items>
